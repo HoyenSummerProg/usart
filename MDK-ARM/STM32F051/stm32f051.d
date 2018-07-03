@@ -1,0 +1,1 @@
+stm32f051\stm32f051.o: STM32F051\STM32F051.sct
